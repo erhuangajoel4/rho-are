@@ -1,0 +1,23 @@
+nav{
+background-color: black;
+display: flex;
+justify-content: space-around;
+padding: 10px;
+}
+img{
+width: 50px;
+border-radius: 50%;
+height: 50px;
+}
+ul{
+display: flex;
+color:white;
+width: 500px;
+padding: 0%;
+justify-content: space-between;
+
+}
+li{
+list-style: none;
+font-size: 30px;
+}
